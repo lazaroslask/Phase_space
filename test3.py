@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 
 #this added after github
 
+#third new line
+
 # Define parameters
 a = 0.1  # Example value for 'a'
 num_steps = 20000  # Number of time steps
